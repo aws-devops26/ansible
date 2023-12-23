@@ -1,0 +1,27 @@
+<person>
+    <name>srivalli</name>
+    <dob>26-04-92</dob>
+    <address>
+        <adress-line1>14-177/a</address-line1>
+        <adress-line2>tn palem</address-line2>
+        <street>autonagar</street>
+        <city>tpt</city>
+    </adress>
+</person>
+
+<person>
+    <name>srivalli</name>
+    <dob>26-04-92</dob>
+    <homeaddress>
+        <adress-line1>14-177/a</address-line1>
+        <adress-line2>tn palem</address-line2>
+        <street>autonagar</street>
+        <city>tpt</city>
+    </homeadress>
+    <officeaddress>
+        <adress-line1>14-177/a</address-line1>
+        <adress-line2>tn palem</address-line2>
+        <street>autonagar</street>
+        <city>tpt</city>
+    </officeadress>
+</person>

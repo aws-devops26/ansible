@@ -1,0 +1,19 @@
+- name: srivalli
+  dob: "26-04-1992"
+  address:
+    adress-line1: tn palem
+    address-line2: autonagar
+    city: tpt
+  email: srivalli26@gmail.com
+
+- name: venkat
+  dob: "26-04-1988"
+  address:
+    adress-line1:  tn palem1
+    address-line2:autonagar1
+    city: tpt1
+    adress-line1: tn palem2
+    address-line2: autonagar2
+    city: tpt2
+  email: srivalli26@gmail.com
+    
