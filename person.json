@@ -1,31 +1,30 @@
 {
-    "name":"srivalli",
-    "dob":"26-04-92",
+    "name": "srivalli",
+    "dob": "26-04-92",
     "address":
     {
-        "address-line1":"srivalli",
-        "address-line2":"autonagar",
-        "city":"tpt"
+        "address-line1": "srivalli",
+        "address-line2": "autonagar",
+        "city": "tpt"
         
     }
 }
 {
-    "name":"srivalli",
-    "dob":"26-04-92",
+    "name": "srivalli",
+    "dob": "26-04-92",
     "address":[
     
     {
-        "address-line1":"srivalli",
-        "address-line1":"srivalli",
-        "address-line2":"autonagar",
-        "city":"tpt",
-        "type":"home"
+        "address-line1": "srivalli",
+        "address-line2": "autonagar",
+        "city": "tpt",
+        "type": "home"
     },
     {
-        "address-line1":"srivalli",
-        "address-line2":"autonagar",
-        "city":"tpt",
-        "type":"office"
+        "address-line1": "srivalli",
+        "address-line2": "autonagar",
+        "city": "tpt",
+        "type": "office"
     }
 ]
 }
