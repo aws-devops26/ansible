@@ -2,14 +2,14 @@
   hosts: localhost
   vars_files:
     - variables.yaml
-  vars_prompt:
-  - name: PERSON
-    prompt: please enter ur name
-    private: false 
+  # vars_prompt:
+  # - name: PERSON
+  #   prompt: please enter ur name
+  #   private: false 
 
-  - name: WISHES
-    prompt: please enter ur wishes
-    private: false
+  # - name: WISHES
+  #   prompt: please enter ur wishes
+  #   private: false
   vars:
     PERSON: "srivalli from PLAY"
     WISHES: "morning from PLAY"
@@ -24,5 +24,6 @@
       #cmd
       #task
       #file
+      #prompt
     
     
