@@ -13,13 +13,14 @@
   vars:
     PERSON: "srivalli from PLAY"
     WISHES: "morning from PLAY"
-  tasks:
-  - name: check variables
-    vars:
-      PERSON: " srivalli from TASK"
-      WISHES: "morning from TASK"
+  # tasks:
+  # - name: check variables
+  #   vars:
+  #     PERSON: " srivalli from TASK"
+  #     WISHES: "morning from TASK"
     ansible.builtin.debug:
       msg: "hello {{PERSON}}, good {{WISHES}}"
 
       #cmd
+      #task
     
