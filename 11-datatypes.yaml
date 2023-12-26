@@ -19,12 +19,12 @@
 
   - name: print list
     ansible.builtin.debug:
-      msg:"skills: {{skills}}"
+      msg: "skills: {{skills}}"
 
   - name: print map
     ansible.builtin.debug:
-      msg:"experience: {{experience}}"
+      msg: "experience: {{experience}}"
 
   - name: print boolean
     ansible.builtin.debug:
-      msg:"is he trainer: {{trainer}}"
+      msg: "is he trainer: {{trainer}}"
