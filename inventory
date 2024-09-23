@@ -1,6 +1,6 @@
 [web]
-3.81.130.196
-3.81.130.196
+192.187.56.3
+192.187.56.4
 
 [catalogue]
 192.187.56.5
@@ -12,5 +12,5 @@
 
 [roboshop:children]
 web
-cart
 catalogue
+cart
