@@ -1,13 +1,12 @@
 - name: loops
   hosts: localhost
-  become: yes
   tasks:
-  - name: print packages
+  - name: install or uninstall
     ansible.builtin.package:
-     name: "{{item}}"
-     state: present
-    loop:
-    - git
-    - nginx
-    - postfix
-    - ansible
+    name: "{{item}}"
+    state: present # item is a default keyboard
+  loop:
+  - ansible
+  - git
+  - mysql
+  - postfix
