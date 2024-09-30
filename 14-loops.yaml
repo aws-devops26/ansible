@@ -5,8 +5,8 @@
     ansible.builtin.package:
   - name: "{{item}}"
     state: present # item is a default keyboard
-  loop:
-  - ansible
-  - git
-  - mysql
-  - postfix
+    loop:
+    - ansible
+    - git
+    - mysql
+    - postfix
