@@ -3,8 +3,8 @@
   tasks:
   - name: install or uninstall
     ansible.builtin.package:
-    name: "{{item}}"
-    state: present # item is a default keyboard
+      name: "{{item}}"
+      state: present # item is a default keyboard
     loop:
     - ansible
     - git
