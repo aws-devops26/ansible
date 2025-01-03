@@ -6,12 +6,12 @@
 
   - name: print message
     ansible.builtin.debug:
-      msg: "hello devops"
+      msg: "hi i m learning devops...all is well"
     tags:
     - devops
 
   - name: print message
     ansible.builtin.debug:
-      msg: "hello aws"
+      msg: " hi i m learning with aws"
     tags:
     - aws
